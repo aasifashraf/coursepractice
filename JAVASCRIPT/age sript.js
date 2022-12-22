@@ -1,4 +1,4 @@
-var age = 0;
+var age = 30;
 if (age >= 65) {
     console.log( "You get your income from your pension")
 }else if (age < 65 && age > 18){
