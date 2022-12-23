@@ -1,5 +1,5 @@
 var year = 2018
-while (year <= 2022){
+while (year < 2023){
     console.log(year);
     year = year + 1;
 };
